@@ -5,7 +5,7 @@ Hector Freard
 Gabriel R.Díaz
 
 # Introduction 
-This project is a third-year Computer Engineering project developed as part of the Software Engineering course. The primary objective of this project is to develop an efficient system for managing university courses, including assigning teachers and classrooms, and enrolling students.
+Course Management System is a third-year Computer Engineering project developed as part of the Software Engineering course. The primary objective of this project is to develop an efficient system for managing university courses, including assigning teachers and classrooms, and enrolling students.
 
 The project aims to streamline administrative tasks, such as scheduling and assigning resources to courses, while ensuring that scheduling conflicts and capacity issues are minimized.
 
