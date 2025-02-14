@@ -1,12 +1,22 @@
 Team members: 
-Rubén Nieto
+RubÃ©n Nieto
 Zainab Rehman
 Hector Freard
-Gabriel R.Díaz
+Gabriel R.DÃ­az
 
 # Introduction 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
+This project is a third-year Computer Engineering project developed as part of the Software Engineering course. The primary objective of this project is to develop an efficient system for managing university courses, including assigning teachers and classrooms, and enrolling students.
 
+The project aims to streamline administrative tasks, such as scheduling and assigning resources to courses, while ensuring that scheduling conflicts and capacity issues are minimized.
+
+This project is designed to reduce manual work for administrators and improve the accuracy and efficiency of course management.
+
+# Features
+- Assign teachers to taught courses.
+- Assign classrooms to taught courses.
+- Enroll students in taught courses.
+- View enrolled students for a specific course.
+  
 # Getting Started
 TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
 1.	Installation process
