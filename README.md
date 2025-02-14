@@ -19,6 +19,6 @@ This project is designed to reduce manual work for administrators and improve th
   
 
 ### Prerequisites
-- .NET Framework (version X.X or higher)
+- .NET Framework
 - Visual Studio (recommended)
 
