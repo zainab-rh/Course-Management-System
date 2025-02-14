@@ -17,14 +17,8 @@ This project is designed to reduce manual work for administrators and improve th
 - Enroll students in taught courses.
 - View enrolled students for a specific course.
   
-# Getting Started
-
 
 ### Prerequisites
 - .NET Framework (version X.X or higher)
 - Visual Studio (recommended)
 
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/CourseManagementSystem.git
