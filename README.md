@@ -37,9 +37,9 @@ To run this project locally, ensure you have the following installed:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/zainab-rh/Course-Management-System.git](https://github.com/zainab-rh/Course-Management-System.git)
-   ```
+   git clone [[https://github.com/zainab-rh/Course-Management-System.git](https://github.com/zainab-rh/Course-Management-System.git)](https://github.com/zainab-rh/Course-Management-System.git)
 
+   ```
 ### Execution Instructions
 
 * **Open Solution:** Launch the `.sln` file using **Microsoft Visual Studio**.
@@ -53,3 +53,4 @@ This project was a collaborative effort by **Group G10**:
 * **Rubén Nieto**
 * **Hector Freard**
 * **Gabriel R. Díaz**
+
